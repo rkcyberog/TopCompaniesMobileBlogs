@@ -19,3 +19,5 @@ https://www.redditinc.com/blog/evolving-mobile-architecture-at-reddit
 https://medium.com/airbnb-engineering/tagged/mobile
 
 https://www.zomato.com/blog/category/technology
+
+https://medium.com/tinder/mobile/home
